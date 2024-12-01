@@ -1,0 +1,12 @@
+{
+  "name": "facebook-voice-extractor",
+  "author": "shioko0317",
+  "description": "extract voice files from facebook backup",
+  "version": "0.0.1",
+  "dependencies": {
+    "utf8": "^3.0.0"
+  },
+  "scripts": {
+    "start": "node facebook.js"
+  }
+}
